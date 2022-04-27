@@ -1,7 +1,7 @@
 # Our Paper
 
 ### Author
- F. Goth, Stefan Enzner 
+Nadine Kraft, F. Goth, Stefan Enzner, Markus Ankenbrand
 
 ## Intro
 
