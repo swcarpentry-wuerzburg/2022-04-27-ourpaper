@@ -1,5 +1,4 @@
 # Our Paper
-
 # Author
  
 # Intro
@@ -8,10 +7,14 @@
 
 
 
+
  
 
-Tom Oeffner, Nadine Kraft, Florian Goth, Stefan Enzner, Markus Ankenbrand, Paultier8
 
+
+
+
+Tom Oeffner, Nadine Kraft, Florian Goth, Stefan Enzner, Markus Ankenbrand, Paultier8, lbordfeldt
 
 ## Intro
 
