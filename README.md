@@ -1,10 +1,12 @@
 # Our Paper
+# Author
+ 
+# Intro
 
 ### Author
-
- Florian Goth, Magnus Mergentaler, Stefan Enzner 
-
+Nadine Kraft, Florian Goth, Stefan Enzner, Markus Ankenbrand, Paultier8, lbordfeldt, Magnus M.,
 ## Intro
+
 
 ## Conclusion
 
