@@ -1,13 +1,20 @@
 # Our Paper
 
-### Author
-<<<<<<< HEAD
-toeffner
+# Author
+ 
+# Intro
 
-Florian Goth, Stefan Enzner 
+### Author
+
+
+
+ 
+
+Tom Oeffner, Nadine Kraft, Florian Goth, Stefan Enzner, Markus Ankenbrand, Paultier8
 
 
 ## Intro
+
 
 ## Conclusion
 
