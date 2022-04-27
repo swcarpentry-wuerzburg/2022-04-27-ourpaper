@@ -1,6 +1,4 @@
 # Our Paper
- 
-# Intro
 
 # Author
  
@@ -8,8 +6,7 @@
 
 ### Author
 
-Nadine Kraft, Florian Goth, Stefan Enzner, Markus Ankenbrand, Paultier8, Feffo
-
+Nadine Kraft, Florian Goth, Stefan Enzner, Markus Ankenbrand, Paultier8, lbordfeldt, Feffo
 
 ## Intro
 
