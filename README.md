@@ -1,7 +1,7 @@
 # Our Paper
 
 ### Author
-Nadine Kraft, F. Goth, Stefan Enzner, Markus Ankenbrand, Paultier8, lbordfeldt, Magnus M.,
+Tim Figgemeier, Nadine Kraft, F. Goth, Stefan Enzner, Markus Ankenbrand, Paultier8, lbordfeldt, Magnus M.,
 
 ## Intro
 
