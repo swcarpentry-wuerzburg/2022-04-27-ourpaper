@@ -1,7 +1,7 @@
 # Our Paper
 
 ### Author
- Florian Goth, Stefan Enzner 
+ F. Goth, Stefan Enzner 
 
 ## Intro
 
