@@ -1,10 +1,13 @@
 # Our Paper
+# Author
+ 
+# Intro
 
 ### Author
-
- Florian Goth, Stefan Enzner, Eslam Ibrahim
+Nadine Kraft, Florian Goth, Stefan Enzner, Markus Ankenbrand, Paultier8, lbordfeldt, Magnus M., Eslam Ibrahim
 
 ## Intro
+
 
 ## Conclusion
 
