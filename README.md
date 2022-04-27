@@ -1,7 +1,7 @@
 # Our Paper
 
 ### Author
- Florian Goth, 
+ Florian Goth, Magnus Mergentaler,  
 
 ## Intro
 
