@@ -5,7 +5,7 @@ Paultier8,
 # Intro
 =======
 ### Author
- Florian Goth, 
+Nadine Kraft, Florian Goth, Stefan Enzner, Markus Ankenbrand
 
 ## Intro
 
