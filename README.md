@@ -2,12 +2,7 @@
 
 ### Author
 
+
 L. Bordfeldt, Tom Oeffner
-
-
-## Intro
-
-
 ## Conclusion
-
 
