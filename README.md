@@ -1,7 +1,8 @@
 # Our Paper
 
 ### Author
-Eslam S. Ibrahim,
+
+ Florian Goth, Stefan Enzner, Eslam Ibrahim
 
 ## Intro
 
