@@ -1,8 +1,7 @@
 # Our Paper
 
 ### Author
-lbordfeldt
-
+Nadine Kraft, Florian Goth, Stefan Enzner, Ludwig Bordfeldt
 ## Intro
 
 ## Conclusion
