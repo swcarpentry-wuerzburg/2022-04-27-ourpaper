@@ -2,9 +2,9 @@
  
 # Intro
 
-## Author
- Florian Goth, Stefan Enzner 
- Feffo
+### Author
+Nadine Kraft, Florian Goth, Stefan Enzner, Markus Ankenbrand, Federico Cascino
+
 
 ## Intro
 
