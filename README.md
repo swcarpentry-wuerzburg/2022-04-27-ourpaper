@@ -1,8 +1,8 @@
 # Our Paper
 
 ### Author
- Florian Goth, 
-Laura Eichenlaub
+Nadine Kraft, Florian Goth, Stefan Enzner, Laura Eichenlaub
+
 ## Intro
 
 ## Conclusion
